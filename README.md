@@ -17,4 +17,4 @@ cnpm i
 - 陈佳兵
 - qq：1014984541
 - 邮箱：1014984541@qq.com
-- github: [https://github.com/chenfalse/chinese-colors](https://github.com/chenfalse/chinese-colors)
+- github: [https://github.com/chenfalse](https://github.com/chenfalse)
