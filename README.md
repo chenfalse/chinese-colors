@@ -6,10 +6,13 @@
 ## 使用方式
 * 安装
 ```javascript
-npm i timeline-carousel --save
+npm i 
 ```
+or
 
-
+```javascript
+cnpm i 
+```
 ## 作者信息
 - 陈佳兵
 - qq：1014984541
